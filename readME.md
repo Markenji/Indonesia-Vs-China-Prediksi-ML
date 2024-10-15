@@ -1,5 +1,7 @@
 # Model Evaluation for Team Match Prediction
 
+![Prediction Model](https://github.com/Markenji/Indonesia-Vs-China-Prediksi-ML/blob/main/Image/tiktok22.jpg)
+
 ## Overview
 
 This repository contains a machine learning model developed to predict the outcomes of matches between various teams. The model uses different algorithms to evaluate performance based on historical match data.
